@@ -1,5 +1,5 @@
 # TestePratico
 
-Para executar, digitar o seguinte comando
+Para executar, digite o seguinte comando
 
 $ node resolucao.js
